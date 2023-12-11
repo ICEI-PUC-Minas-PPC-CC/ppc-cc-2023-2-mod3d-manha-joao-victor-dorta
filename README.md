@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# 2023-s2: Tarefa 4 - Aplicação Gráfica 3D, Animação ou Modelo 3D
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,11 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
-
+- João Victor Machado Dorta Silva
+  
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
 # Documentação
 
