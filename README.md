@@ -26,3 +26,7 @@
 ## Vídeo do projeto
 
 https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-joao-victor-dorta/assets/131986728/3454039e-636a-40fa-85da-47a0a4fbb4ec
+
+## Link para ter acesso ao arquivo do blender e do MPEG, uma vez que eles não são suportados aqui no GitHub.
+
+https://drive.google.com/drive/folders/1jnCgn5qUOBmrL0R6KjITGus3brrKbZmh?usp=drive_link
